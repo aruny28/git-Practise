@@ -1,1 +1,2 @@
 This is first file to commit for test
+need to start getting knowledge in JAVA
